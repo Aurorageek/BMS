@@ -1,0 +1,19 @@
+﻿  ADMINRECORD.cpp
+  confirm.cpp
+  LibraryBMS.cpp
+  LibraryBMSDlg.cpp
+  LOGIN.cpp
+  MANAGERUI.cpp
+  overtime.cpp
+  STUDENTUI.cpp
+  STUQUERY.cpp
+  test.cpp
+  USERRECORD.cpp
+  WRITE.cpp
+E:\database work\LibraryBMS\LibraryBMS\WRITE.cpp(66,49): warning C4129: “,”: 不可识别的字符转义序列
+E:\database work\LibraryBMS\LibraryBMS\WRITE.cpp(66,76): warning C4129: “,”: 不可识别的字符转义序列
+E:\database work\LibraryBMS\LibraryBMS\WRITE.cpp(66,100): warning C4129: “,”: 不可识别的字符转义序列
+E:\database work\LibraryBMS\LibraryBMS\WRITE.cpp(67,17): warning C4129: “,”: 不可识别的字符转义序列
+E:\database work\LibraryBMS\LibraryBMS\WRITE.cpp(67,64): warning C4129: “)”: 不可识别的字符转义序列
+  正在生成代码...
+  LibraryBMS.vcxproj -> E:\database work\LibraryBMS\x64\Debug\LibraryBMS.exe
